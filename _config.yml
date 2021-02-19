@@ -103,7 +103,7 @@ theme: next
 deploy:
   type: git
   repo: 
-    github: https://github.com/JingyuanR/Yuanxi.github.io
+    github: git@github.com:JingyuanR/jingyuanr.github.io.git
   branch: master
 
 search:
